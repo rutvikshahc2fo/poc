@@ -1,0 +1,533 @@
+[
+    {
+        "a_file": "tests/test_data/dup_a.py",
+        "a_name": "compute_total",
+        "a_start": 1,
+        "b_file": "tests/test_data/dup_b.py",
+        "b_name": "calculate_sum",
+        "b_start": 1,
+        "score": 0.9987426996231079
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "product",
+        "a_start": 19,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "total_sum",
+        "b_start": 11,
+        "score": 0.9961456060409546
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "calculate_interest",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "get_interest_amount",
+        "b_start": 1,
+        "score": 0.9956612586975098
+    },
+    {
+        "a_file": "tests/test_data/dup_a.py",
+        "a_name": "helper_unique",
+        "a_start": 8,
+        "b_file": "tests/test_data/dup_b.py",
+        "b_name": "helper_other",
+        "b_start": 7,
+        "score": 0.9954289197921753
+    },
+    {
+        "a_file": "tests/test_data/dup_a.py",
+        "a_name": "compute_total",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "total_sum",
+        "b_start": 11,
+        "score": 0.995146632194519
+    },
+    {
+        "a_file": "tests/test_data/dup_b.py",
+        "a_name": "calculate_sum",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "total_sum",
+        "b_start": 11,
+        "score": 0.9948946833610535
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "sum_values",
+        "a_start": 11,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "multiply_list",
+        "b_start": 18,
+        "score": 0.9946072697639465
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "calculate_interest",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "compute_compound_interest",
+        "b_start": 6,
+        "score": 0.9943265914916992
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "sum_values",
+        "a_start": 11,
+        "b_file": "tests/test_data/complex_cases/utils_math.py",
+        "b_name": "product",
+        "b_start": 19,
+        "score": 0.9942702054977417
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_finance.py",
+        "a_name": "get_interest_amount",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "compute_compound_interest",
+        "b_start": 6,
+        "score": 0.9942111968994141
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "sum_values",
+        "a_start": 11,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "total_sum",
+        "b_start": 11,
+        "score": 0.9940845370292664
+    },
+    {
+        "a_file": "tests/test_data/dup_a.py",
+        "a_name": "compute_total",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_math.py",
+        "b_name": "product",
+        "b_start": 19,
+        "score": 0.9940185546875
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "product",
+        "a_start": 19,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "multiply_list",
+        "b_start": 18,
+        "score": 0.9940170049667358
+    },
+    {
+        "a_file": "tests/test_data/dup_b.py",
+        "a_name": "calculate_sum",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_math.py",
+        "b_name": "sum_values",
+        "b_start": 11,
+        "score": 0.9939256310462952
+    },
+    {
+        "a_file": "tests/test_data/dup_a.py",
+        "a_name": "compute_total",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_math.py",
+        "b_name": "sum_values",
+        "b_start": 11,
+        "score": 0.9937295913696289
+    },
+    {
+        "a_file": "tests/test_data/dup_b.py",
+        "a_name": "calculate_sum",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_math.py",
+        "b_name": "product",
+        "b_start": 19,
+        "score": 0.9931610822677612
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "multiply",
+        "a_start": 13,
+        "b_file": "tests/test_data/complex_cases/utils_math.py",
+        "b_name": "product",
+        "b_start": 19,
+        "score": 0.9926875829696655
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "inner_sum",
+        "a_start": 2,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "add",
+        "b_start": 10,
+        "score": 0.9924363493919373
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_finance.py",
+        "a_name": "total_sum",
+        "a_start": 11,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "multiply_list",
+        "b_start": 18,
+        "score": 0.9919565320014954
+    },
+    {
+        "a_file": "tests/test_data/dup_b.py",
+        "a_name": "helper_other",
+        "a_start": 7,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "inner_sum",
+        "b_start": 2,
+        "score": 0.9914008378982544
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "multiply",
+        "a_start": 13,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "total_sum",
+        "b_start": 11,
+        "score": 0.9912790060043335
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "multiply",
+        "a_start": 13,
+        "b_file": "tests/test_data/complex_cases/utils_math.py",
+        "b_name": "sum_values",
+        "b_start": 11,
+        "score": 0.990829586982727
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "wrapper_function",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "inner_sum",
+        "b_start": 2,
+        "score": 0.9907017946243286
+    },
+    {
+        "a_file": "tests/test_data/dup_a.py",
+        "a_name": "helper_unique",
+        "a_start": 8,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "add",
+        "b_start": 10,
+        "score": 0.9903558492660522
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "multiply",
+        "a_start": 13,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "multiply_list",
+        "b_start": 18,
+        "score": 0.9899218082427979
+    },
+    {
+        "a_file": "tests/test_data/dup_a.py",
+        "a_name": "compute_total",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "multiply",
+        "b_start": 13,
+        "score": 0.9897929430007935
+    },
+    {
+        "a_file": "tests/test_data/dup_b.py",
+        "a_name": "calculate_sum",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "multiply",
+        "b_start": 13,
+        "score": 0.9897042512893677
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "wrapper_function",
+        "a_start": 1,
+        "b_file": "tests/test_data/dup_b.py",
+        "b_name": "calculate_sum",
+        "b_start": 1,
+        "score": 0.9893542528152466
+    },
+    {
+        "a_file": "tests/test_data/dup_a.py",
+        "a_name": "helper_unique",
+        "a_start": 8,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "inner_sum",
+        "b_start": 2,
+        "score": 0.9892463088035583
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_finance.py",
+        "a_name": "multiply_list",
+        "a_start": 18,
+        "b_file": "tests/test_data/dup_b.py",
+        "b_name": "calculate_sum",
+        "b_start": 1,
+        "score": 0.9891750812530518
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "wrapper_function",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "total_sum",
+        "b_start": 11,
+        "score": 0.9888767004013062
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "wrapper_function",
+        "a_start": 1,
+        "b_file": "tests/test_data/dup_a.py",
+        "b_name": "compute_total",
+        "b_start": 1,
+        "score": 0.9887667298316956
+    },
+    {
+        "a_file": "tests/test_data/dup_b.py",
+        "a_name": "helper_other",
+        "a_start": 7,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "add",
+        "b_start": 10,
+        "score": 0.988605260848999
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "compute_area_circle",
+        "a_start": 6,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "compute_compound_interest",
+        "b_start": 6,
+        "score": 0.9885282516479492
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "wrapper_function",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_math.py",
+        "b_name": "sum_values",
+        "b_start": 11,
+        "score": 0.9879254102706909
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/report_generator.py",
+        "a_name": "generate_report",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/report_generator.py",
+        "b_name": "summarize_numbers",
+        "b_start": 9,
+        "score": 0.9877551198005676
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "compute_area_circle",
+        "a_start": 6,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "wrapper_function",
+        "b_start": 1,
+        "score": 0.9864727258682251
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "compute_area_circle",
+        "a_start": 6,
+        "b_file": "tests/test_data/dup_b.py",
+        "b_name": "calculate_sum",
+        "b_start": 1,
+        "score": 0.9856551885604858
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_finance.py",
+        "a_name": "compute_compound_interest",
+        "a_start": 6,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "wrapper_function",
+        "b_start": 1,
+        "score": 0.9855839014053345
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "add",
+        "a_start": 10,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "wrapper_function",
+        "b_start": 1,
+        "score": 0.9852994680404663
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_finance.py",
+        "a_name": "get_interest_amount",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "wrapper_function",
+        "b_start": 1,
+        "score": 0.9852709174156189
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "compute_area_circle",
+        "a_start": 6,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "get_interest_amount",
+        "b_start": 1,
+        "score": 0.9851845502853394
+    },
+    {
+        "a_file": "tests/test_data/dup_b.py",
+        "a_name": "helper_other",
+        "a_start": 7,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "wrapper_function",
+        "b_start": 1,
+        "score": 0.9849505424499512
+    },
+    {
+        "a_file": "tests/test_data/dup_a.py",
+        "a_name": "helper_unique",
+        "a_start": 8,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "wrapper_function",
+        "b_start": 1,
+        "score": 0.9848889112472534
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/report_generator.py",
+        "a_name": "generate_report",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "get_interest_amount",
+        "b_start": 1,
+        "score": 0.9848009347915649
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "compute_area_circle",
+        "a_start": 6,
+        "b_file": "tests/test_data/dup_a.py",
+        "b_name": "compute_total",
+        "b_start": 1,
+        "score": 0.9846794009208679
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "inner_sum",
+        "a_start": 2,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "total_sum",
+        "b_start": 11,
+        "score": 0.9846245646476746
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/report_generator.py",
+        "a_name": "summarize_numbers",
+        "a_start": 9,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "get_interest_amount",
+        "b_start": 1,
+        "score": 0.9844653606414795
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/report_generator.py",
+        "a_name": "generate_report",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "compute_compound_interest",
+        "b_start": 6,
+        "score": 0.9841916561126709
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/report_generator.py",
+        "a_name": "summarize_numbers",
+        "a_start": 9,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "compute_compound_interest",
+        "b_start": 6,
+        "score": 0.9840737581253052
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/report_generator.py",
+        "a_name": "generate_report",
+        "a_start": 1,
+        "b_file": "tests/test_data/dup_b.py",
+        "b_name": "calculate_sum",
+        "b_start": 1,
+        "score": 0.9840160608291626
+    },
+    {
+        "a_file": "tests/test_data/dup_b.py",
+        "a_name": "helper_other",
+        "a_start": 7,
+        "b_file": "tests/test_data/complex_cases/utils_math.py",
+        "b_name": "compute_area_circle",
+        "b_start": 6,
+        "score": 0.9836984872817993
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "calculate_interest",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/utils_math.py",
+        "b_name": "compute_area_circle",
+        "b_start": 6,
+        "score": 0.9835960865020752
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/report_generator.py",
+        "a_name": "generate_report",
+        "a_start": 1,
+        "b_file": "tests/test_data/dup_a.py",
+        "b_name": "compute_total",
+        "b_start": 1,
+        "score": 0.9833253026008606
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "calculate_interest",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/report_generator.py",
+        "b_name": "summarize_numbers",
+        "b_start": 9,
+        "score": 0.9831432104110718
+    },
+    {
+        "a_file": "tests/test_data/dup_a.py",
+        "a_name": "helper_unique",
+        "a_start": 8,
+        "b_file": "tests/test_data/complex_cases/utils_math.py",
+        "b_name": "compute_area_circle",
+        "b_start": 6,
+        "score": 0.9829408526420593
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/utils_math.py",
+        "a_name": "calculate_interest",
+        "a_start": 1,
+        "b_file": "tests/test_data/complex_cases/report_generator.py",
+        "b_name": "generate_report",
+        "b_start": 1,
+        "score": 0.9828965067863464
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/nested_logic.py",
+        "a_name": "add",
+        "a_start": 10,
+        "b_file": "tests/test_data/complex_cases/utils_finance.py",
+        "b_name": "total_sum",
+        "b_start": 11,
+        "score": 0.9827283024787903
+    },
+    {
+        "a_file": "tests/test_data/complex_cases/report_generator.py",
+        "a_name": "summarize_numbers",
+        "a_start": 9,
+        "b_file": "tests/test_data/complex_cases/nested_logic.py",
+        "b_name": "wrapper_function",
+        "b_start": 1,
+        "score": 0.9747579097747803
+    }
+]
